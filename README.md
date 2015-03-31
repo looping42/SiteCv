@@ -1,4 +1,4 @@
 # SiteCv
 site concernant mon Cv
 
-Informations sont mon profil 
+Informations sur mon profil 
